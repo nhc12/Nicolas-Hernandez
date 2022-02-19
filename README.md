@@ -4,7 +4,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 ## Overview and Origin
 
-* Name of company
+* Name of company: Lending Loop
 
 * When was the company incorporated?
 
