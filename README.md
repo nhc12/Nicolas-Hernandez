@@ -4,7 +4,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 ## Overview and Origin
 
-* Name of company: Lending Loop
+* Name of company: Lending Loop (compare with Zopa and SoFi)
 
 * When was the company incorporated?
 
