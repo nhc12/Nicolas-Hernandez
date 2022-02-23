@@ -4,11 +4,11 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 ## Overview and Origin
 
-* Name of company: Lending Loop or Gopeer (compare with Zopa and SoFi)
+* Name of company: Lending Loop 
 
-* When was the company incorporated?
+* When was the company incorporated? 2014
 
-* Who are the founders of the company?
+* Who are the founders of the company? Brandon Vlaar and Cato Pastoll
 
 * How did the idea for the company (or project) come about?
 
