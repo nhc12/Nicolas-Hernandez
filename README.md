@@ -6,9 +6,9 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * Name of company: Lending Loop 
 
-* When was the company incorporated? 2014
+* When was the company incorporated: 2014
 
-* Who are the founders of the company? Brandon Vlaar and Cato Pastoll
+* Who are the founders of the company: Brandon Vlaar and Cato Pastoll
 
 * How did the idea for the company (or project) come about?
 
@@ -50,3 +50,10 @@ Unit 1 Homework Assignment: FinTech Case Study
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources 
+
+* https://www.linkedin.com/company/lending-loop/about/
+* https://www.lendingloop.ca/about
+* https://www.crunchbase.com/organization/lending-loop
+* https://betakit.com/lending-loop-raises-2-million-launches-automated-investment-platform/
