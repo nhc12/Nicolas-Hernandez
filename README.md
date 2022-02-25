@@ -17,9 +17,9 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? small businesses have an important challenge to access lending from major banks primarily due to their high rates and procedures (e.g. minimum requirements, assets, credit score).Lending loop makes this process easier by providing low interest rates (from 4.96%) for amounts as low as CAD 1000 and with a simplified application process. Additionally, for investors, it provides them with an easy solution for passive income which stablished naks won't offer (e.g. fixed term deposits). (Source: lendingloop.ca). 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? Since is peer 2 peer there is to main customers; lenders and investors. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
