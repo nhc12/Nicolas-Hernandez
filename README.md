@@ -12,14 +12,14 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * How did the idea for the company (or project) come about? The founders were inspired by the peer 2 peer boom that was taking place globally at the beginning of 2010's (e.g. Lending Club) and were the first company to introduce this to Canada with the objective to provide small business access to capital at competitive rates by reducing the cost of intermediaries as they connect borrowers directly to lenders which benefit of a return of at least 5% (Source: ncfcanada.org and lendingloop.ca)
 
-* How is the company funded? How much funding have they received? the company had 5 funding rounds which consist of 2 seed rounds, 2 venture rounds and 1 debt financing. these took place between 2015 and 2018 achieving CAD 12M in total (Source: crunchbase.com)
+* How is the company funded? How much funding have they received? the company had 5 funding rounds which consist of 2 seed rounds , 2 venture rounds and 1 debt financing. these took place between 2015 and 2018 achieving CAD 12M in total (Source: crunchbase.com)
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve? small businesses have an important challenge to access lending from major banks primarily due to their high rates and procedures (e.g. minimum requirements, assets, credit score).Lending loop makes this process easier by providing low interest rates (from 4.96%) for amounts as low as CAD 1000 and with a simplified application process. Additionally, for investors, it provides them with an easy solution for passive income which stablished naks won't offer (e.g. fixed term deposits). (Source: lendingloop.ca). 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers? Since is peer 2 peer there is to main customers; lenders and investors. 
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? Since is peer 2 peer there is to main customers; lenders and investors. in terms of size, the latest available data from the Biannual Survey of Suppliers of Business Financing — Data Analysis, first half 2019 of the government of Canada reported that CAD 141.2 Billion was the value of new loans in the first half of 2019. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -57,3 +57,5 @@ Unit 1 Homework Assignment: FinTech Case Study
 * https://www.lendingloop.ca/about
 * https://www.crunchbase.com/organization/lending-loop
 * https://betakit.com/lending-loop-raises-2-million-launches-automated-investment-platform/
+* https://cba.ca/business-credit-availability
+* https://ncfacanada.org/lending-loop-surpasses-50-million-milestone-and-helps-hundreds-of-canadian-businesses/
