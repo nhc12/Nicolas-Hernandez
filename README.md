@@ -17,17 +17,17 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve? small businesses have an important challenge to access lending from major banks primarily due to their high rates and procedures (e.g. minimum requirements, assets, credit score).Lending loop makes this process easier by providing low interest rates (from 4.96%) for amounts as low as CAD 1000 and with a simplified application process. Additionally, for investors, it provides them with an easy solution for passive income which stablished naks won't offer (e.g. fixed term deposits). (Source: lendingloop.ca). 
+* What specific financial problem is the company or project trying to solve? small businesses have an important challenge to access lending from major banks primarily due to their high rates and procedures (e.g. minimum requirements, assets, credit score). Lending loop makes this process easier by providing low interest rates (from 4.96%) for amounts as low as CAD 1000 and with a simplified application process. Additionally, for investors, it provides them with an easy solution for passive income which stablished banks won't offer (e.g. fixed term deposits). (Source: lendingloop.ca). 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers? Since is peer 2 peer there is to main customers; lenders and investors. in terms of size, the latest available data from the Biannual Survey of Suppliers of Business Financing — Data Analysis, first half 2019 of the government of Canada reported that CAD 141.2 Billion was the value of new loans in the first half of 2019. 
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? Since is peer 2 peer there is to main customers; borrowers and lenders. in terms of size, the latest available data from the Biannual Survey of Suppliers of Business Financing — Data Analysis, first half 2019 of the government of Canada reported that CAD 141.2 Billion was the value of new loans in the first half of 2019 (Source: government of Canada). 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) the key solution is around two major areas:  the speed of the process being done primarily online and the fact there is no intermediary (e.g. bank); they are connecting in p2p environment lenders and borrowers offering more competitive returns and rates respectively. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) Lending Loop uses various technologies. For application and data, they use JQUERY, Typescript, Ruby, Amazon Cloudfront and Open Resty. In addition, they have other solutions such as Pardot (Software as a Service (SaaS) marketing automation platform), varnish, google analytics and Google Tag Manager. 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry is the company in? lending
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -59,3 +59,5 @@ Unit 1 Homework Assignment: FinTech Case Study
 * https://betakit.com/lending-loop-raises-2-million-launches-automated-investment-platform/
 * https://cba.ca/business-credit-availability
 * https://ncfacanada.org/lending-loop-surpasses-50-million-milestone-and-helps-hundreds-of-canadian-businesses/
+* https://www.ic.gc.ca/eic/site/061.nsf/eng/03117.html
+* https://stackshare.io/lending-loop/lending-loop
