@@ -10,9 +10,9 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * Who are the founders of the company: Brandon Vlaar and Cato Pastoll
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? The founders were inspired by the peer 2 peer boom that was taking place globally at the beginning of 2010's (e.g. Lending Club) and were the first company to introduce this to Canada with the objective to provide small business access to capital at competitive rates by reducing the cost of intermediaries as they connect borrowers directly to lenders which benefit of a return of at least 5% (Source: ncfcanada.org and lendingloop.ca)
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received? the company had 5 funding rounds which consist of 2 seed rounds, 2 venture rounds and 1 debt financing. these took place between 2015 and 2018 achieving CAD 12M in total (Source: crunchbase.com)
 
 
 ## Business Activities:
