@@ -37,19 +37,27 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * What has been the business impact of this company so far? Lending Loop has lent around CAD 80 million since the company started in 2014. Currently there are around 12,000 investors 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? # of loans Issued
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? # of loans Issued, performance by loan grade, default payments
 
-* How is your company performing relative to competitors in the same domain?
+* How is your company performing relative to competitors in the same domain? Specifically on default payments which is a critical KPI, it can be seen the evolution overtime of 5% vs the projection of +10%. For reference, according to the latest survey from RBC _The new challenges facing Canada's small businesses_, 13% of small businesses respondents claimed were concerned about their ability to ever repay. 
+
+![image](https://user-images.githubusercontent.com/89788967/155826917-63170429-73f4-49b9-ba3c-4ea94ed78dff.png)
+
+![image](https://user-images.githubusercontent.com/89788967/155826987-9e7501a9-659b-4aae-b5da-7e7b81c9fc9c.png)
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? Taking inspiration of a Global leader like SoFi could allow Lending Loop to diversify and increase their user base. For reference, these are the different services that Sofi offers:
 
-* Why do you think that offering this product or service would benefit the company?
+![image](https://user-images.githubusercontent.com/89788967/155827425-d4ced48e-97f8-4098-95b0-2fda42cc1fab.png)
 
-* What technologies would this additional product or service utilize?
+it will be suggested to focus on areas where Canadians have a high level of debt or high premiums: Home Loans and Insurance 
 
-* Why are these technologies appropriate for your solution?
+* Why do you think that offering this product or service would benefit the company? The company will benefit to increase the userbase and diversify its funding fron individual lenders. 
+
+* What technologies would this additional product or service utilize? blockchain technologies can allow to create a distributed ledger where investors and home loan clients can 
+
+* Why are these technologies appropriate for your solution? provide support 
 
 ## Sources 
 
@@ -64,3 +72,4 @@ Unit 1 Homework Assignment: FinTech Case Study
 * https://www.lendingclub.com/company/about-us
 * https://www.sofi.com/
 * https://www.savvynewcanadians.com/lending-loop-review/
+* https://thoughtleadership.rbc.com/the-new-challenges-facing-canadas-small-businesses/
