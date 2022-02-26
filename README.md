@@ -31,13 +31,13 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * What have been the major trends and innovations of this domain over the last 5-10 years? The rise of key fintech players like Lending Club and SoFi that disrupted the lending ecosytem that was dominated by banks. This approach provided lending opportunities to an unserved group (e.g. students) which have significant barriers with the traditional banking system. Additionally, Lending Club was a key pioneer of p2p lending which besides the benefits to borrowers, provided a unique opportunity to lenders to generate important returns.  
 
-* What are the other major companies in this domain? SoFi, Lending CLub globally, GoPeeer and Lending Loop in Canada
+* What are the other major companies in this domain? SoFi, Lending CLub globally. In the case of Canada: goPeer, LoanConnect, Borrowell, and Mog
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far? Lending Loop has lent around CAD 80 million since the company started in 2014. Currently there are around 12,000 investors 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? # of loans Issued
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -62,3 +62,5 @@ Unit 1 Homework Assignment: FinTech Case Study
 * https://www.ic.gc.ca/eic/site/061.nsf/eng/03117.html
 * https://stackshare.io/lending-loop/lending-loop
 * https://www.lendingclub.com/company/about-us
+* https://www.sofi.com/
+* https://www.savvynewcanadians.com/lending-loop-review/
