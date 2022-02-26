@@ -29,9 +29,9 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * What domain of the financial industry is the company in? lending
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* What have been the major trends and innovations of this domain over the last 5-10 years? The rise of key fintech players like Lending Club and SoFi that disrupted the lending ecosytem that was dominated by banks. This approach provided lending opportunities to an unserved group (e.g. students) which have significant barriers with the traditional banking system. Additionally, Lending Club was a key pioneer of p2p lending which besides the benefits to borrowers, provided a unique opportunity to lenders to generate important returns.  
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain? SoFi, Lending CLub globally, GoPeeer and Lending Loop in Canada
 
 ## Results
 
@@ -61,3 +61,4 @@ Unit 1 Homework Assignment: FinTech Case Study
 * https://ncfacanada.org/lending-loop-surpasses-50-million-milestone-and-helps-hundreds-of-canadian-businesses/
 * https://www.ic.gc.ca/eic/site/061.nsf/eng/03117.html
 * https://stackshare.io/lending-loop/lending-loop
+* https://www.lendingclub.com/company/about-us
