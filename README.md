@@ -1,6 +1,6 @@
 # Nicolas-Hernandez
 Unit 1 Homework Assignment: FinTech Case Study
-# TITLE
+# Lending in Fintech
 
 ## Overview and Origin
 
