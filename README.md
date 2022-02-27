@@ -23,7 +23,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) the key solution is around two major areas:  the speed of the process being done primarily online and the fact there is no intermediary (e.g. bank); they are connecting in p2p environment lenders and borrowers offering more competitive returns and rates respectively. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) Lending Loop uses various technologies. For application and data, they use JQUERY, Typescript, Ruby, Amazon Cloudfront and Open Resty. In addition, they have other solutions such as Pardot (Software as a Service (SaaS) marketing automation platform), varnish, google analytics and Google Tag Manager. 
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) Lending Loop uses various technologies. For application and data, they use JQUERY, Typescript, Ruby, Amazon Cloudfront and Open Resty. In addition, they have other solutions such as Pardot (Software as a Service (SaaS) marketing automation platform), varnish, google analytics and Google Tag Manager. (Source:Stackshare.io)
 
 ## Landscape:
 
@@ -44,20 +44,20 @@ Unit 1 Homework Assignment: FinTech Case Study
 ![image](https://user-images.githubusercontent.com/89788967/155826917-63170429-73f4-49b9-ba3c-4ea94ed78dff.png)
 
 ![image](https://user-images.githubusercontent.com/89788967/155826987-9e7501a9-659b-4aae-b5da-7e7b81c9fc9c.png)
+Source: The new challenges facing Canada's small businesses (RBC Economics Studies)
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? Taking inspiration of a Global leader like SoFi could allow Lending Loop to diversify and increase their user base. For reference, these are the different services that Sofi offers:
+* If you were to advise the company, what products or services would you suggest they offer? Taking inspiration of a Global leader like SoFi, Lending Loop could diversify to other areas of lending where Canadians have a high level of debt and/or high premiums: Home Loans and Insurance . For reference, these are the different services that Sofi offers:
 
 ![image](https://user-images.githubusercontent.com/89788967/155827425-d4ced48e-97f8-4098-95b0-2fda42cc1fab.png)
+Source: SoFi.com
 
-it will be suggested to focus on areas where Canadians have a high level of debt or high premiums: Home Loans and Insurance 
-
-* Why do you think that offering this product or service would benefit the company? The company will benefit to increase the userbase and diversify its funding fron individual lenders. 
-
+* Why do you think that offering this product or service would benefit the company? The company will benefit of a bigger market (insurance market: CAD 69.8 billion and mortgages: CAD 1.4 trillion - Ontario alone). This will also mean that Lending Loop will have to increase its source of funding beyond individual lenders (e.g. venture capital) to be able to expand into these markets and most importantly maintain competitive and attracctive to investors. 
+ 
 * What technologies would this additional product or service utilize? blockchain technologies can allow to create a distributed ledger where investors and home loan clients can 
 
-* Why are these technologies appropriate for your solution? provide support 
+* Why are these technologies appropriate for your solution? 
 
 ## Sources 
 
@@ -73,3 +73,4 @@ it will be suggested to focus on areas where Canadians have a high level of debt
 * https://www.sofi.com/
 * https://www.savvynewcanadians.com/lending-loop-review/
 * https://thoughtleadership.rbc.com/the-new-challenges-facing-canadas-small-businesses/
+* https://www.ibisworld.com/canada/market-size/property-casualty-direct-insurance/
