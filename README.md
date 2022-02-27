@@ -53,7 +53,7 @@ Source: The new challenges facing Canada's small businesses (RBC Economics Studi
 ![image](https://user-images.githubusercontent.com/89788967/155827425-d4ced48e-97f8-4098-95b0-2fda42cc1fab.png)
 Source: SoFi.com
 
-* Why do you think that offering this product or service would benefit the company? The company will benefit of a bigger market (insurance market: CAD 69.8 billion and mortgages: CAD 1.4 trillion - Ontario alone). This will also mean that Lending Loop will have to increase its source of funding beyond individual lenders (e.g. venture capital) to be able to expand into these markets and most importantly maintain competitive and attracctive to investors. 
+* Why do you think that offering this product or service would benefit the company? The company will benefit of a bigger market (insurance market: CAD 69.8 billion source: ibisworld and mortgages: CAD 1.4 trillion - Ontario alone source: Financial Services Comission of Ontario). This will also mean that Lending Loop will have to increase its source of funding beyond individual lenders (e.g. venture capital) to be able to expand into these markets and most importantly maintain competitive and attracctive to investors. 
  
 * What technologies would this additional product or service utilize? blockchain technologies can allow to create a distributed ledger where investors and home loan clients can 
 
@@ -74,3 +74,4 @@ Source: SoFi.com
 * https://www.savvynewcanadians.com/lending-loop-review/
 * https://thoughtleadership.rbc.com/the-new-challenges-facing-canadas-small-businesses/
 * https://www.ibisworld.com/canada/market-size/property-casualty-direct-insurance/
+* https://www.fsco.gov.on.ca/en/understanding-mortgages/Pages/mortgage-business.html
