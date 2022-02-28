@@ -12,7 +12,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * How did the idea for the company (or project) come about? 
  
-   The founders were inspired by the peer 2 peer boom that was taking place globally at the beginning of 2010's (e.g. Lending Club). They were the first company to introduce        this to Canada with the objective to provide small business access to capital at competitive rates, by reducing the cost of intermediaries as they connect borrowers directly    to lenders, which benefit of a return of at least 5% (Source: ncfcanada.org and lendingloop.ca)
+   The founders were inspired by the peer 2 peer boom that was taking place globally at the beginning of 2010's (e.g. Lending Club). They were the first company to introduce        this to Canada, with the objective to provide small business access to capital at competitive rates. This is primarily achieved by reducing the cost of intermediaries as they    P2P connects borrowers directly to lenders, which benefit of a return of at least 5% (Source: ncfcanada.org and lendingloop.ca)
 
 * How is the company funded? How much funding have they received? 
 
@@ -23,11 +23,11 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * What specific financial problem is the company or project trying to solve? 
 
-  Small businesses have an important challenge to access lending from major banks primarily due to their high rates and procedures (e.g. minimum requirements, assets, credit       score). Lending loop makes this process easier by providing low interest rates (from 4.96%) for amounts as low as CAD 1,000 and with a simplified application process.           Additionally, for investors, it provides them with an easy solution for passive income which stablished banks won't offer (e.g. fixed term deposits). (Source: lendingloop.ca). 
+  Small businesses have an important challenge to access lending from major banks primarily due to their high rates and procedures (e.g. minimum requirements, assets, credit       score). Lending loop makes this process easier by providing low interest rates (from 4.96%) for amounts as low as CAD 1,000 and with a simplified application process.           Additionally, for investors, it provides them with an easy solution for passive income which established banks won't offer (e.g. fixed term deposits). (Source:                   lendingloop.ca). 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers? 
 
-  Since is peer 2 peer there is two main customers; borrowers and lenders. in terms of size, the latest available data from the Biannual Survey of Suppliers of Business           Financing   — Data Analysis, first half 2019 of the government of Canada reported that CAD 141.2 Billion was the value of new loans in the first half of 2019 (Source:           Government of Canada). 
+  Since is peer 2 peer there is two main customers; borrowers and lenders. in terms of size (loans for businesses), the latest available data from the Biannual Survey of           Suppliers of Business Financing — Data Analysis, first half 2019 of the government of Canada reported that CAD 141.2 Billion was the value of new loans in the first half of     2019 (Source: Government of Canada). 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) 
 
@@ -55,7 +55,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 * How is your company performing relative to competitors in the same domain? 
 
-  Specifically on default payments which is a critical KPI, it can be seen the evolution overtime of 5% vs the projection of +10%. For reference, according to the latest survey   from RBC _The new challenges facing Canada's small businesses_, 13% of small businesses respondents claimed were concerned about their ability to ever repay. 
+  Specifically on default payments which is a critical KPI, it can be seen the evolution overtime of 5% vs the projection of +10%, which is very promising. In addition if         compared with the small business owner sentiment, according to the latest survey from RBC _The new challenges facing Canada's small businesses_, 13% of small businesses         respondents claimed were concerned about their ability to ever repay, which is another argument to demonstrate the success so far of Lending Loop. 
 
 ![image](https://user-images.githubusercontent.com/89788967/155826917-63170429-73f4-49b9-ba3c-4ea94ed78dff.png)
 
@@ -73,19 +73,19 @@ Source: SoFi.com
 
 * Why do you think that offering this product or service would benefit the company? 
  
-  The company will benefit of a bigger market (insurance market: CAD 69.8 billion source: ibisworld and mortgages: CAD 1.4 trillion - Ontario alone source: Financial Services C   Comission of Ontario). 
+  The company will benefit of a bigger market (insurance market: CAD 69.8 billion - source: ibisworld and mortgages: CAD 1.4 trillion in Ontario alone - source: Financial         Services Comission of Ontario). 
 
   This will also mean that Lending Loop will have to increase its source of funding beyond individual lenders (e.g. venture capital) to be able to expand into these markets and   most importantly maintain competitive and attracctive to investors. 
  
 * What technologies would this additional product or service utilize? 
  
-  AI technologies (e.g. AWS data analytics) that can consider more data points beyond credit history and current industry standards. For example, this solution can consider       purchasing habits, personality test, investor profile and macrofactors in addition to the well stablished mechanisms of assestment (e.g. cash flow) to be able to predict the potential to earn   and therefore suggest what type of approach the home owner should do: home to live or invest. 
+  AI technologies (e.g. AWS data analytics) that can consider more data points beyond credit history and current industry standards. For example, this solution can consider       purchasing habits, personality test, investor profile and macrofactors in addition to the well established mechanisms of assestment (e.g. cash flow). The objective will be to   better predict the potential to earn and therefore suggest what type of approach the home owner should do: invest in a home to live or just investment. 
 
-  The same principle will apply for insurance. For example, today car insurance leverages on data analytics to provide discounts to clients based on their driving habits. The     objective will be to provide a tailored suggestion so potential customers take the exact insurance they need based on predictions that AI technology can do. 
+  The same principle will apply for insurance. For example, today car insurance leverages on data analytics to provide discounts to clients based on their driving habits. The     objective will be to provide a tailored suggestion so potential customers take the exact insurance they need based on predictions that AI technology can do, rather than taking   additional protections that are not required. 
 
 * Why are these technologies appropriate for your solution? 
 
-  These technologies are the most appropiate as by having a significant larger number of data points that today is not considered in home loans or insurance, potential customers   can have tailored solutions that meet more their present and predict their behaviour in the future. This also benefits businesses as these efficiencies will not require         additional headcounts and follow the same online journey for customers minimizing the human factor. 
+  These technologies are the most appropiate as having a significant larger number of data points that today are not considered in home loans or insurance, con benefit potential   customers to receive tailored solutions that meet more their present and predict their behaviour in the future. This also benefits businesses as these efficiencies will not     require additional headcounts and can be leveraged with the existing online journey for customers minimizing the human factor. 
 
 ## Sources 
 
